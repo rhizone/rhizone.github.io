@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://el-uhu.github.io/rhizone//sitemap.xml
