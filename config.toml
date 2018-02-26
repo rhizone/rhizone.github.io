@@ -1,0 +1,35 @@
+baseurl = "http://el-uhu.github.io/rhizone/"
+title = "Rhizone"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+publishDir = "docs"
+
+[params]
+  description = '<img src="images/logo_src.jpg" style="width:30%"></img>'
+  logo = ""
+  copyright = "Untitled"
+
+
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/Rhizone-828485920566432/"
+
+[[params.social]]
+  medium = "youtube"
+  icon = "youtube"
+  link = "#"
+
+[[params.social]]
+  medium = "bandcamp"
+  icon = "bandcamp"
+  link = "#"
+
+[[params.social]]
+  medium = "spotify"
+  icon = "spotify"
+  link = "#"
