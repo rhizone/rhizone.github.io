@@ -1,4 +1,1 @@
 User-agent: *
-Allow: /
-
-Sitemap: http://rhizone.github.io/sitemap.xml
